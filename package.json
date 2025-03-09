@@ -1,0 +1,15 @@
+{
+  "name": "lojas-batista",
+  "version": "1.0.0",
+  "description": "landing page da lojas batista",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "author": "Igor Alves Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.12",
+    "tailwindcss": "^4.0.12"
+  }
+}
